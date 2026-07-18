@@ -143,6 +143,7 @@ markers:
   - {type: line-break, offset: 497, content: '', id: KR3j0021_WYG_008-2b05}
   - {type: substitution, offset: 503, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 510, content: (, id: KR3j0021_krp_008-bkkpn1}
+  - {type: voice, offset: 510, length: 26, name: note, id: n1}
   - {type: substitution, offset: 512, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: punctuation, offset: 518, content: /, id: KR3j0021_krp_008-bkkpn2}
   - {type: substitution, offset: 522, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
@@ -173,6 +174,7 @@ markers:
   - {type: line-break, offset: 579, content: '', id: KR3j0021_WYG_008-3a01}
   - {type: substitution, offset: 579, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16735}}
   - {type: punctuation, offset: 588, content: (, id: KR3j0021_krp_008-bkkpn7}
+  - {type: voice, offset: 588, length: 26, name: note, id: n2}
   - {type: substitution, offset: 593, original: 壊, replacement: 壞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20625}}
   - {type: punctuation, offset: 600, content: /, id: KR3j0021_krp_008-bkkpn8}
   - {type: punctuation, offset: 612, content: ), id: KR3j0021_krp_008-bkkpn9}
@@ -2114,4 +2116,4 @@ markers:
 
       ', id: KR3j0021_krp_008-bkkkrnewl485}
   back: []
-hash: sha256:f1ec3b95517c18a78b66f248114cf377756cc8bc53a967b0c301b64940a91233
+hash: sha256:8624395875d4f3a405c3a0cb018d365b12565ee5e82056fcc1a92ba31cea91a5
